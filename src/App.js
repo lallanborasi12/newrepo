@@ -109,6 +109,8 @@ const handleClear=()=>{
                       <option>English</option>
                       <option>Science</option>
                       <option>Art</option>
+                      <option>AI</option>
+                      <option>newsubject</option>
                   </optgroup>
                 </select>
               </div>
